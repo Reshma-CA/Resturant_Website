@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+h1,ul,li{
+    display:inline;
+    
+}
+h1{
+    margin-left: 47%;
+}
+
+ul{
+    margin-left: 43%;
+    padding:10px
+}
+li{
+    margin-right: 20px;
+    color:rgb(227, 205, 205);
+    cursor:pointer;
+}
+
+li:hover{
+    color: white;
+}
+
+img{
+    height:220px;
+    width:220px
+}
+
+.item1{
+    border-color:black;
+    border-width: 3px;
+    border-style: solid;
+    display:inline-block;
+    width:220px;
+    height: 350px;
+   
+
+}
+
+.item2{
+    border-color:black;
+    border-width: 3px;
+    border-style: solid;
+    display:inline-block;
+    width:220px;
+    height: 350px;
+   
+
+}
+.item3{
+    border-color:black;
+    border-width: 3px;
+    border-style: solid;
+    display:inline-block;
+    width:220px;
+    height: 350px;
+   
+
+}
+
+.item4{
+    border-color:black;
+    border-width: 3px;
+    border-style: solid;
+    display:inline-block;
+    width:220px;
+    height: 350px;
+   
+
+}
+.items{
+    padding: 20px;
+    text-align: center;
+}
+
+h4{
+    background-color: black;
+    color: white;
+    padding:7px;
+    display: inline;
+    
+}
+
+p{
+    padding-bottom: 10px;
+}
+
+form{
+    margin-left: 45%;
+    
+
+}
+
+.contact{
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    height: 250px;
+
+   
+}
+
+.send{
+    background-color: yellow;
+    color:black;
+    display: block;
+    text-align: center;
+    margin: 10px;
+    width: 30%;
+    margin-left: 38%;
+
+
+    
+    
+   
+}
+
+
+
